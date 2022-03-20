@@ -1,0 +1,10 @@
+1: Encapsulation refers to the bundling of fields and methods inside a single class. make sensitive data hidden from users.
+2: A constructor in Java is a special method that is used to initialize objects. The constructor is called when an object of a class is created.
+3: Function Overloading in Java occurs when there are functions having the same name but have different numbers of parameters passed to it.
+4: is a restricted class that cannot be used to create objects, it must be inherited from another class.
+5: The super keyword in Java is a reference variable which is used to refer immediate parent class object.
+6: Exception Handling in Java is one of the effective means to handle the runtime errors so that the regular flow of the application can be preserved. 
+7: Overloading:Enhances readability of the program, Overriding:Redefines a method which is already present in the parent class
+8: Public, Protected, Private
+9: A class has all members private by default. A struct is a class where members are public by default.
+10: Data hiding, private
